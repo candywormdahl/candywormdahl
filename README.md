@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all the  programming I can and get a great job
 - 🌱 I’m currently learning Git and Github and do some programmung
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...you can reach me at 5037596775
+- 📫 How to reach me ...you can reach me at trixstr53@gmail.com
 
 <!---
 candywormdahl/candywormdahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
